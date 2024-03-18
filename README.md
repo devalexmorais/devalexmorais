@@ -1,7 +1,9 @@
+
 ### Olá, eu sou Alex Santos 🖐️
 
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=devalexmorais&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalexmorais&layout=compact)
 
 ### Sobre mim
 🖐️ Olá! Eu sou Alex, um estudante de Engenharia de Software apaixonado por criar soluções inovadoras e funcionais. Minha jornada na programação começou com a curiosidade de entender como as coisas funcionam nos bastidores dos softwares que utilizo no dia a dia. Desde então, tenho me dedicado a aprimorar minhas habilidades e explorar novas tecnologias.
